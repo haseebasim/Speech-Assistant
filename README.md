@@ -12,5 +12,5 @@ Solution:
   And also check if you have got a 32bit python or 64bit
 Installation:
   Go to the folder where it is downloaded for example cd C:\Users\foobar\Downloads
-  Install using pip e.g pip install <filename with extension>
+  Install using pip e.g pip install file
   
